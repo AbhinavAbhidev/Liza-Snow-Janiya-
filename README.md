@@ -5,7 +5,7 @@ All Errors are now fixed and the bot is working fine..
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kaviya-admin/Liza-Snow-Janiya-.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https:/AbhinavAbhidev/github.com//Liza-Snow-Janiya-.git)
 
 A Modular Group management Bot on Sinhala
 
